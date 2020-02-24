@@ -1,5 +1,4 @@
-# [OCR VIETNAMESE]()
----
+
 ## [ 1. OVERVIEW ]()
 
 [ **1.2 About the data**: ]() 
@@ -25,6 +24,7 @@
 - With CNN layers: the model will extract features of images and learn them.
 - CTC to caculate the loss function.
 - RNN: The text is fed into the neural network character by character and the network is triggered to generate a sequence of characters.
+
 ![](https://i.imgur.com/KhzrHmo.png)
 
 ---
